@@ -67,8 +67,8 @@ The `Output.csv` file contains the following evaluation metrics for each text cl
 |4     |JiaqiLee/imdb-finetuned-bert-base-uncased|0.9241666666666668|0.924904347826087 |0.9241666666666668|0.9241337386018236|0.9241666666666666|0.8848039999999999|0.8490706940404084              |0.8483333333333334|220.45876574516296|3.126624279306181 |0.0033577307551204832|6   |
 |5     |Intradiction/text_classification_NoLORA  |0.9275            |0.9282434782608696|0.9275            |0.9274685193226226|0.9275            |0.8891960000000001|0.8557431552902348              |0.855             |110.99619698524477|2.43848710790093  |0.6584945155677805   |3   |
 
-<>
-
+![full comp](https://github.com/Samarjeet09/Topsis-for-Pretrained-Models/blob/main/Images/CommpAll.png)
 ## Conclusion 
-For our limited usecase secnario we can conlcude that ALBERT model provides us with the best results 
+<img src="https://github.com/Samarjeet09/Topsis-for-Pretrained-Models/blob/main/Images/Score_comparison.png" width="800" height="800">
+```For our limited usecase secnario we can conlcude that ALBERT model provides us with the best results ```
 
