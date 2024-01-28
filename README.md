@@ -70,5 +70,6 @@ The `Output.csv` file contains the following evaluation metrics for each text cl
 ![full comp](https://github.com/Samarjeet09/Topsis-for-Pretrained-Models/blob/main/Images/CommpAll.png)
 ## Conclusion 
 <img src="https://github.com/Samarjeet09/Topsis-for-Pretrained-Models/blob/main/Images/Score_comparison.png" width="800" height="800">
+
 ```For our limited usecase secnario we can conlcude that ALBERT model provides us with the best results ```
 
